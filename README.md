@@ -1,12 +1,12 @@
 # sonification
-Dependencies:
+<h2>Dependencies:</h2>
+    <p>pip install requirements.txt</p>
 
 
 
 
 
-
-Run the program:
+<h2>Run the program:</h2>
    <ol> 
     <li>Open Terminal</li> 
     <li>type: python3 action.py</li>

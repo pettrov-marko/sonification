@@ -1,0 +1,4 @@
+audiolazy==0.6
+Flask==3.0.0
+opencv-python==4.8.1.78
+MIDIUtil==1.2.1
