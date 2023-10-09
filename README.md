@@ -1,9 +1,9 @@
 # Sonification
 
 <h2>Warning!</h2>
-    <ol>
+    <ul>
 	<li>This code works with Python 3.9 or lower</li>
-    </ol>
+    </ul>
 
 
 
